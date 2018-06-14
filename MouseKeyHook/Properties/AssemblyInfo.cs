@@ -1,6 +1,6 @@
 // This code is distributed under MIT license. 
 // Copyright (c) 2015 George Mamaladze
-// See license.txt or http://opensource.org/licenses/mit-license.php
+// See license.txt or https://mit-license.org/
 
 using System.Reflection;
 using System.Runtime.InteropServices;
@@ -12,4 +12,4 @@ using System.Runtime.InteropServices;
     )]
 [assembly: AssemblyCopyright("(c) George Mamaladze 2000-2018")]
 [assembly: ComVisible(false)]
-[assembly: AssemblyVersion("5.5.0")]
+[assembly: AssemblyVersion("5.6.0")]
